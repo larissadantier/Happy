@@ -34,6 +34,25 @@ O Happy é um projeto que tem o objetivo de facilitar visitas aos orfanatos pró
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
+## Iniciando
+
+📖 Para rodar o projeto localmente você precisará seguir algumas instruções.
+
+- É necessário que o <a href="https://nodejs.org/en/">NodeJS</a> esteja instalado em sua máquina.
+
+### Instalação
+```bash
+# Clone o repositório
+git clone https://github.com/larissadantier/Nlw3-Happy.git
+
+# Instale todos os pacotes
+
+- Npm
+npm install
+
+- SQlite
+npm install sqlite-async
+```
 ## 🔖 Layout
 
 Visualize o layout do projeto através do link a seguir:
@@ -42,9 +61,23 @@ Visualize o layout do projeto através do link a seguir:
 
 Você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo 😉.
 
+## Contribuições
+```
+Você quer contribuir para o projeto e não sabe como? 💜
+
+1. Dê Fork no projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Comite as alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Faça o push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+```
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🧾 Contato
+
+[Linkedin](https://www.linkedin.com/in/larissa-dantier-858b1884/) - [Instragram](https://www.instagram.com/larissa.dantier/?hl=pt) - larissa_dantier@hotmail.com
 
 ---
 
